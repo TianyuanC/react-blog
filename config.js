@@ -2,12 +2,12 @@
 
 module.exports = {
     url: "https://blog-session-652.netlify.com",
-    title: "React Blog for Session 652",
+    title: "Blog for Session 652",
     subtitle: "",
     copyright: "© Just read.",
-    disqusShortname: "",
+    disqusShortname: "react-blog-652",
     postsPerPage: 4,
-    googleAnalyticsId: "",
+    googleAnalyticsId: "UA-137060867-1",
     menu: [
         {
             label: "Articles",
