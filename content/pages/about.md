@@ -21,7 +21,7 @@ In this nanodegree, firstly, we will be learning the basics of React
 -   the uni-directional update flow
 -   the lifecycle methods and so on...
 
-Don't step away yet, that's only the starting. You will soon notice that it's the whole ecosystem that is making React so amazing
+Don't step away yet, that's only the beginning. You will soon notice that it's the whole ecosystem that is making React so amazing
 
 -   you can use `react-router` to split routes for your SPA (single page application)
 -   `redux` and `react-redux` can be used to manage complicated states inside your application

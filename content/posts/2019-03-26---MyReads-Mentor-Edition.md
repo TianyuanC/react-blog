@@ -1,5 +1,5 @@
 ---
-title: MyReads Ryan's Edition
+title: Ryan's Reads
 date: "2019-03-26T23:46:37.121Z"
 template: "post"
 draft: false
