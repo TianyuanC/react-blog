@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-    url: "https://lumen.netlify.com",
+    url: "https://blog-session-652.netlify.com",
     title: "React Blog for Session 652",
     subtitle: "",
     copyright: "© All rights reserved.",
