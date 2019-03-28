@@ -8,12 +8,13 @@ Welcome to Udacity's React Nanodegree, I'm your mentor Ryan. You are here becaus
 ### TL;DR
 
 -   Slack will be our main communication channel, and we will have our weekly 1:1 chat, ama (ask-me-anything) session, reminders and updates over there.
--   We also have weekly knowledge webinar hosted by me.  
+-   We also have weekly knowledge webinar hosted by myself.  
     (So every Saturday, I will be presenting topics that are frequently asked in this group as well the ones I found interesting. Yes, like a YouTuber. So feel free to interact with me during the live broadcasting! Also, don't worry if you miss the live show, cuz there will always be recordings available shortly after.)
 -   DM (direct message) me, I won't bite 🦁
 
 ### Show Me What You Got
 
+![potato_head_show_me_what_u_got](/media/potato_head.jpg)
 In this nanodegree, firstly, we will be learning the basics of React
 
 -   its `<JSX />` syntax

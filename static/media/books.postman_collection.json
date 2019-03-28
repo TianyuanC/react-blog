@@ -1,0 +1,161 @@
+{
+	"info": {
+		"_postman_id": "a95fc573-c956-4a47-986f-3c9309ea2d14",
+		"name": "books",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get all",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "anything",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://reactnd-books-api.udacity.com/books",
+					"protocol": "https",
+					"host": [
+						"reactnd-books-api",
+						"udacity",
+						"com"
+					],
+					"path": [
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "anything",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://reactnd-books-api.udacity.com/books/nggnmAEACAAJ",
+					"protocol": "https",
+					"host": [
+						"reactnd-books-api",
+						"udacity",
+						"com"
+					],
+					"path": [
+						"books",
+						"nggnmAEACAAJ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "anything",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"query\": \"linux\"}"
+				},
+				"url": {
+					"raw": "https://reactnd-books-api.udacity.com/search",
+					"protocol": "https",
+					"host": [
+						"reactnd-books-api",
+						"udacity",
+						"com"
+					],
+					"path": [
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "anything",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"shelf\": \"wantToRead\"}"
+				},
+				"url": {
+					"raw": "https://reactnd-books-api.udacity.com/books/nggnmAEACAAJ",
+					"protocol": "https",
+					"host": [
+						"reactnd-books-api",
+						"udacity",
+						"com"
+					],
+					"path": [
+						"books",
+						"nggnmAEACAAJ"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
