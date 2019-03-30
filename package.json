@@ -4,6 +4,7 @@
     "description": "React Blog for session 652",
     "main": "n/a",
     "scripts": {
+        "start": "yarn run clean && gatsby develop",
         "develop": "yarn run clean && gatsby develop",
         "build": "yarn run clean && gatsby build",
         "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public",

@@ -7,17 +7,23 @@ I will list all the previous webinar video, slide and repository links below
 
 ### Welcome Webinar
 
--   [Video](https://youtu.be/kXDkRDssmEc?t=123)
--   [Slide](https://tianyuanc.github.io/welcome-session-652/#0)
+[Link to Slide](https://tianyuanc.github.io/welcome-session-652/#0)
+`youtube:https://www.youtube.com/embed/kXDkRDssmEc?start=123`
 
 ### Knowledge Webinar 1
 
--   [Video](https://youtu.be/NjgyenpVnw0?t=445)
--   [Slide](https://tianyuanc.github.io/knowledge-652-1/#0)
+[Link to Slide](https://tianyuanc.github.io/knowledge-652-1/#0)
+`youtube:https://www.youtube.com/embed/NjgyenpVnw0?start=445`
 
 ### Knowledge Webinar 2
 
--   [Video](https://youtu.be/z-U7wymFSy0?t=84)
--   [Slide](https://tianyuanc.github.io/knowledge-652-2/#0)
--   [setState repo](https://github.com/TianyuanC/set-state-demo)
--   [liftState repo](https://github.com/TianyuanC/liftstate-demo)
+[Slide](https://tianyuanc.github.io/knowledge-652-2/#0)  
+[setState repo](https://github.com/TianyuanC/set-state-demo)  
+[liftState repo](https://github.com/TianyuanC/liftstate-demo)
+
+`youtube:https://www.youtube.com/embed/z-U7wymFSy0?start=84`
+
+### Knowledge Webinar 3
+
+[Link to Slide](https://tianyuanc.github.io/knowledge-652-3/#0)
+`youtube:https://www.youtube.com/embed/1JAeDlbk6b4`
