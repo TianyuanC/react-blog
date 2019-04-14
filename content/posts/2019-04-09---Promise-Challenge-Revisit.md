@@ -1,6 +1,6 @@
 ---
 title: The Promise Challenge
-date: "2019-04-08T23:46:37.121Z"
+date: "2019-04-09T23:46:37.121Z"
 template: "post"
 draft: true
 slug: "/posts/es6-promise-challenge/"
