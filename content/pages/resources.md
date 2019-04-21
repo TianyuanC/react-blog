@@ -5,12 +5,14 @@ template: "page"
 
 I will list all the previous webinar video, slide and repository links below
 
-### Knowledge Webinar 5
+### Knowledge Webinar 6
 
-[Slide](https://tianyuanc.github.io/knowledge-652-5/#0)  
-[webpack/styled-component repo](https://github.com/TianyuanC/webpack-demo)  
-[pull request repo](https://github.com/TianyuanC/pull-request-demo)  
-`youtube:https://www.youtube.com/embed/Onmg_a6bxFE`
+-   [Link to Slide](https://tianyuanc.github.io/knowledge-652-6/#0)
+-   [middleware repo](https://github.com/TianyuanC/middleware-demo)
+-   [context api repo](https://github.com/TianyuanC/context-api-demo)
+-   [http2 repo](https://github.com/TianyuanC/http2-demo)
+
+`youtube:https://www.youtube.com/embed/a2KtoyqqV68`
 
 ---
 
@@ -21,11 +23,20 @@ I will list all the previous webinar video, slide and repository links below
 [Link to Slide](https://tianyuanc.github.io/welcome-session-652/#0)
 `youtube:https://www.youtube.com/embed/kXDkRDssmEc?start=123`
 
+### Knowledge Webinar 5
+
+-   [Link to Slide](https://tianyuanc.github.io/knowledge-652-5/#0)
+-   [webpack/styled-component repo](https://github.com/TianyuanC/webpack-demo)
+-   [pull request repo](https://github.com/TianyuanC/pull-request-demo)
+
+`youtube:https://www.youtube.com/embed/Onmg_a6bxFE`
+
 ### Knowledge Webinar 4
 
-[Slide](https://tianyuanc.github.io/knowledge-652-4/#0)  
-[ConsoleAPI repo](https://github.com/TianyuanC/console-demo)  
-[GraphQL repo](https://github.com/TianyuanC/apollo-books-api)  
+-   [Link to Slide](https://tianyuanc.github.io/knowledge-652-4/#0)
+-   [ConsoleAPI repo](https://github.com/TianyuanC/console-demo)
+-   [GraphQL repo](https://github.com/TianyuanC/apollo-books-api)
+
 `youtube:https://www.youtube.com/embed/SSLrz5RsmnE`
 
 ### Knowledge Webinar 3
@@ -35,9 +46,9 @@ I will list all the previous webinar video, slide and repository links below
 
 ### Knowledge Webinar 2
 
-[Slide](https://tianyuanc.github.io/knowledge-652-2/#0)  
-[setState repo](https://github.com/TianyuanC/set-state-demo)  
-[liftState repo](https://github.com/TianyuanC/liftstate-demo)
+-   [Link to Slide](https://tianyuanc.github.io/knowledge-652-2/#0)
+-   [setState repo](https://github.com/TianyuanC/set-state-demo)
+-   [liftState repo](https://github.com/TianyuanC/liftstate-demo)
 
 `youtube:https://www.youtube.com/embed/z-U7wymFSy0?start=84`
 
