@@ -3,16 +3,14 @@ title: "Resources"
 template: "page"
 ---
 
-I will list all the previous webinar video, slide and repository links below
+Hope you enjoy the following webinar recordings. I learned a lot when I was preparing for those demo topics, and hope you find those helpful as well. Please let me know if I made any mistake and all feedbacks are welcomed
 
-### Knowledge Webinar 6
+### Knowledge Webinar 7
 
--   [Link to Slide](https://tianyuanc.github.io/knowledge-652-6/#0)
--   [middleware repo](https://github.com/TianyuanC/middleware-demo)
--   [context api repo](https://github.com/TianyuanC/context-api-demo)
--   [http2 repo](https://github.com/TianyuanC/http2-demo)
+-   [Link to Slide](https://tianyuanc.github.io/knowledge-652-7/#0)
+-   [react-redux repo](https://github.com/TianyuanC/react-redux-demo)
 
-`youtube:https://www.youtube.com/embed/a2KtoyqqV68`
+`youtube:https://www.youtube.com/embed/iIaylZOHJxA`
 
 ---
 
@@ -22,6 +20,15 @@ I will list all the previous webinar video, slide and repository links below
 
 [Link to Slide](https://tianyuanc.github.io/welcome-session-652/#0)
 `youtube:https://www.youtube.com/embed/kXDkRDssmEc?start=123`
+
+### Knowledge Webinar 6
+
+-   [Link to Slide](https://tianyuanc.github.io/knowledge-652-6/#0)
+-   [middleware repo](https://github.com/TianyuanC/middleware-demo)
+-   [context api repo](https://github.com/TianyuanC/context-api-demo)
+-   [http2 repo](https://github.com/TianyuanC/http2-demo)
+
+`youtube:https://www.youtube.com/embed/a2KtoyqqV68`
 
 ### Knowledge Webinar 5
 
