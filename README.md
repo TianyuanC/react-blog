@@ -1,10 +1,12 @@
-# React Blog
+# React Nanodegree Blog
 
-For Session 652
+For React Nanodegree Session 652
 
-https://blog-session-652.netlify.com/
+## 👀 Blog
 
-## Launch locally
+[Read More](https://blog-session-652.netlify.com/)
+
+## 🚀 Launch
 
 ```sh
 yarn && yarn start
@@ -12,12 +14,12 @@ yarn && yarn start
 
 http://localhost:8000/
 
-## Topics
+## 📝 Topics
 
 -   [Tools](https://blog-session-652.netlify.com/category/tools/)
 -   [Projects](https://blog-session-652.netlify.com/tag/project/)
 -   Maybe more 🙊
 
-## Pipeline
+## 🛢 Pipeline
 
 CI/CD with netlify
